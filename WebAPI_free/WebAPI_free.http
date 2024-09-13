@@ -1,0 +1,6 @@
+@WebAPI_free_HostAddress = http://localhost:5262
+
+GET {{WebAPI_free_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
